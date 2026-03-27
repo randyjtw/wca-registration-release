@@ -1,7 +1,5 @@
 WCA 報名 Release 1.00
 
-這個資料夾只包含執行檔，不包含源碼。
-
 檔案說明：
 1) wca_registration_v1.00_mac_arm64
    - 適用：Apple Silicon Mac (M1/M2/M3)
