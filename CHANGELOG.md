@@ -7,7 +7,7 @@
 - 支援多人資料併發執行（非依序逐一）。
 - 報名網址欄位提示調整為：`報名網址（Registration頁結尾為：/registration）`。
 - 人員頁支援刪除人員 2 之後的分頁，人員 1 固定保留。
-- 流程對齊 Python：進入 `/registration/select` 後輸入 WCA ID，並點擊 `GO!`。
+- 新增輸入 WCA ID 後點擊 GO!。
 - 到達報名頁與表單頁時，自動保存 HTML 快照至 `analysis_snapshots/` 供下次分析。
 - checkbox 勾選邏輯調整為只勾選第一個可見且未勾選項目。
 

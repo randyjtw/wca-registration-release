@@ -19,7 +19,7 @@ WCA 報名 Release 1.01
 - 人員 1 不可刪除；人員 2 之後可移除
 - 併發執行多人報名流程（非依序）
 - 報名時間窗控制：開始前 5 分鐘到開始後 5 分鐘
-- WCA 流程對齊 Python：在 /registration/select 輸入 WCA ID 後點 GO!
+- 新增輸入 WCA ID 後點擊 GO!。
 - 進入報名頁與表單頁時自動儲存 HTML 快照到 analysis_snapshots/
 - 降低終端機輪詢噪音：不再持續列印 GET /api/job/... 心跳請求
 
